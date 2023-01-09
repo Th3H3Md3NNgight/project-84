@@ -53,7 +53,6 @@ function my_keydown(e)
 
 function alphabetkey()
 {
-	//upload respective image with the message. 
     img_image="alpkey.png";
 	add();
 }
@@ -64,12 +63,12 @@ function numberkey()
 }
 function arrowkey()
 {
-	img_image="otherkey.png";
+	img_image="Arrkey.png";
 	add();
 }
 function specialkey()
 {
-	img_image="sppkey.png";
+	img_image="spkey.png";
 	add();
 }
 function otherkey()
