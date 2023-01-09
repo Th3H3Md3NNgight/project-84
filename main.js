@@ -53,7 +53,7 @@ function my_keydown(e)
 
 function alphabetkey()
 {
-    img_image="alpkey.png";
+    img_image="Alpkey.png";
 	add();
 }
 function numberkey()
